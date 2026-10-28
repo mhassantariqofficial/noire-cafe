@@ -1,5 +1,11 @@
 # Noire Cafe
 
+**Live Demo:** [noire-cafe-nu.vercel.app](https://noire-cafe-nu.vercel.app/)
+
+![Noire Cafe Desktop View](screenshots/desktop.png)
+
+![Noire Cafe Mobile View](screenshots/mobile.png)
+
 A modern, premium, luxury one-page website for **Noire Café**, built with React and 3D graphics.
 
 ## Features
